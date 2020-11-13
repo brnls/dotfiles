@@ -1,0 +1,11 @@
+[user]
+	name = brnls
+	email = brnls1234@gmail.com
+[credential]
+	helper = manager
+[alias]
+	diffdir = difftool --dir-diff --tool=bc --no-prompt --no-symlinks
+[diff]
+	tool = bc
+[difftool "bc"]
+	path = c:/Program Files/Beyond Compare 4/bcomp.exe
