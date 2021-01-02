@@ -13,3 +13,4 @@ nnoremap <Leader>td :vsc TestExplorer.DebugAllTestsInContext<CR>
 nnoremap <Leader>wv :vsc Window.NewVerticalTabGroup<CR>
 
 set relativenumber
+set number
